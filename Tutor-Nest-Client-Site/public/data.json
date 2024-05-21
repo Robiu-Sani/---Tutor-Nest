@@ -1,0 +1,366 @@
+[
+  {
+    "service_image": "https://www.educatorstechnology.com/wp-content/uploads/2023/05/Online-Math-Tutoring-1.png",
+    "service_name": "Mathematics Tutoring",
+    "service_price": "$30/hour",
+    "service_area": "Online , Los Angeles (California)",
+    "service_type": "Algebra, Geometry, Calculus",
+    "description": "Experienced mathematics tutor offering personalized tutoring sessions in algebra, geometry, and calculus. Improve your math skills and excel in your exams.",
+    "user": {
+      "username": "math_guru123",
+      "email": "math_guru123@example.com",
+      "user_image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFsZSUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D",
+      "description": "Hi, I'm John Doe, a passionate mathematics tutor with over 5 years of teaching experience. I specialize in helping students understand complex math concepts in a clear and engaging manner."
+    }
+  },
+  {
+    "service_image": "https://www.clark.edu/academics/programs/dept/english/writingworkshop.png",
+    "service_name": "English Writing Workshops",
+    "service_price": "$25/session",
+    "service_area": "Online , Manhattan (New York)",
+    "service_type": "Essay Writing, Creative Writing",
+    "description": "Join our interactive writing workshops to enhance your essay writing and creative writing skills. Learn effective techniques and receive personalized feedback.",
+    "user": {
+      "username": "writing_wizard",
+      "email": "writing_wizard@example.com",
+      "user_image": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "description": "Hello, I'm Sarah Smith, an experienced English educator passionate about nurturing students' writing talents. Join my workshops to unleash your creativity and express yourself with confidence."
+    }
+  },
+  {
+    "service_image": "https://imgcdn.stablediffusionweb.com/2024/3/1/8575b37c-ad33-4d6d-a0aa-b9212ecf4821.jpg",
+    "service_name": "Science Lab Demonstrations",
+    "service_price": "$50/hour",
+    "service_area": "Online , Manhattan (New York)",
+    "service_type": "Physics, Chemistry, Biology",
+    "description": "Engaging science lab demonstrations covering various topics in physics, chemistry, and biology. Hands-on learning experiences to supplement classroom teachings.",
+    "user": {
+      "username": "science_whiz",
+      "email": "science_whiz@example.com",
+      "user_image": "https://static.vecteezy.com/system/resources/thumbnails/005/346/410/small_2x/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg",
+      "description": "Hi, I'm Emily Brown, a certified science educator passionate about making science fun and accessible for students. Join my lab demonstrations to explore the wonders of the natural world."
+    }
+  },
+  {
+    "service_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYKQsIgZyZfouM-mZzCVBGqh_qyn_pulsSAOf8F4ZL231jyhN1oZ8RUTYXmE-OMDpS7Q&usqp=CAU",
+    "service_name": "Mathematics Tutoring",
+    "service_price": "$30/hour",
+    "service_area": "Online , Los Angeles (California)",
+    "service_type": "Algebra, Geometry, Calculus",
+    "description": "Experienced mathematics tutor offering personalized tutoring sessions in algebra, geometry, and calculus. Improve your math skills and excel in your exams.",
+    "user": {
+      "username": "math_guru123",
+      "email": "math_guru123@example.com",
+      "user_image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFsZSUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D",
+      "description": "Hi, I'm John Doe, a passionate mathematics tutor with over 5 years of teaching experience. I specialize in helping students understand complex math concepts in a clear and engaging manner."
+    }
+  },
+  {
+    "service_image": "https://media.istockphoto.com/id/537487389/vector/concept-of-creative-writing-workshop.jpg?s=612x612&w=0&k=20&c=ikCdQjzvMqV3UX1zv9PhD3AZiZA1lmDbhD9HzjIgg3k=",
+    "service_name": "English Writing Workshops",
+    "service_price": "$25/session",
+    "service_area": "Online , Los Angeles (California)",
+    "service_type": "Essay Writing, Creative Writing",
+    "description": "Join our interactive writing workshops to enhance your essay writing and creative writing skills. Learn effective techniques and receive personalized feedback.",
+    "user": {
+      "username": "writing_wizard",
+      "email": "writing_wizard@example.com",
+      "user_image": "https://images.unsplash.com/photo-1599834562135-b6fc90e642ca?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bWFuJTIwcHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "description": "Hello, I'm Sarah Smith, an experienced English educator passionate about nurturing students' writing talents. Join my workshops to unleash your creativity and express yourself with confidence."
+    }
+  },
+  {
+    "service_image": "https://blog.cinfin.com/wp-content/uploads/2015/12/chemistry-classroom.jpg",
+    "service_name": "Science Lab Demonstrations",
+    "service_price": "$50/hour",
+    "service_area": "Online , Houston (Texas)",
+    "service_type": "Physics, Chemistry, Biology",
+    "description": "Engaging science lab demonstrations covering various topics in physics, chemistry, and biology. Hands-on learning experiences to supplement classroom teachings.",
+    "user": {
+      "username": "science_whiz",
+      "email": "science_whiz@example.com",
+      "user_image": "https://t4.ftcdn.net/jpg/02/24/86/95/360_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg",
+      "description": "Hi, I'm Emily Brown, a certified science educator passionate about making science fun and accessible for students. Join my lab demonstrations to explore the wonders of the natural world."
+    }
+  },
+  {
+    "service_image": "https://img.curiositystream.com/cHJvZHVjdGlvbi9zb3VyY2VzL3RpdGxlcy81NDcwL2hvcml6b250YWxfaW1hZ2VfMTZfOS9lbi1VUy85Y2RmOWMwNy1jMDY5LTQ1ZjMtYWQyZS1jOGQ0MjRmNjI0MWIvbWVkaWFfaG9yaXpvbnRhbF9pbWFnZV8xNl85XzU0NzBfMzg0MHgyMTYwXzAwMDIuanBn.jpg",
+    "service_name": "History Crash Course",
+    "service_price": "$40/session",
+    "service_area": "Online ,  Los Angeles (California)",
+    "service_type": "World History, American History",
+    "description": "Comprehensive crash course covering key topics in world history and American history. Prepare for exams and gain a deeper understanding of historical events.",
+    "user": {
+      "username": "photo_guru",
+      "email": "photo_guru@example.com",
+      "user_image": "https://www.lovepanky.com/wp-content/uploads/2020/11/what-makes-a-man-a-man-1.jpg",
+      "description": "Hi, I'm Mark Wilson, a professional photographer passionate about sharing my knowledge and skills with photography enthusiasts. Join my workshops to learn about camera settings, composition techniques, and more."
+    }
+  },
+  {
+    "service_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9vrl8dWtuM2oFh3ery7_J2JRo5V9ponwEQXeOsC4yNg&s",
+    "service_name": "Coding for Kids",
+    "service_price": "$20/session",
+    "service_area": "Online , Houston (Texas)",
+    "service_type": "Scratch, Python for Kids",
+    "description": "Engaging coding classes designed specifically for kids. Learn basic coding concepts and create fun projects using Scratch and Python.",
+    "user": {
+      "username": "code_kidz",
+      "email": "code_kidz@example.com",
+      "user_image": "https://img.freepik.com/free-photo/smiley-man-relaxing-outdoors_23-2148739334.jpg",
+      "description": "Hi, I'm Lisa Johnson, a passionate coding instructor dedicated to making coding fun and accessible for kids. Join my classes to embark on an exciting coding adventure!"
+    }
+  },
+  {
+    "service_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4LqGAqF0b7KCeDDJbgO4fjkOLgKEe9uFbiVBYGgcbUA&s",
+    "service_name": "Study Skills Workshop",
+    "service_price": "$30/session",
+    "service_area": "Online , Los Angeles (California)",
+    "service_type": "Time Management, Note-Taking",
+    "description": "Practical workshop focusing on study skills such as time management, effective note-taking, and exam preparation strategies. Boost your academic performance!",
+    "user": {
+      "username": "study_wizard",
+      "email": "study_wizard@example.com",
+      "user_image": "https://www.realmenrealstyle.com/wp-content/uploads/2023/07/Glasses-for-Oval-shape.jpg",
+      "description": "Hi, I'm Rachel Adams, an experienced educator passionate about helping students develop effective study skills. Join my workshop to unlock your full academic potential!"
+    }
+  },
+  {
+    "service_image": "https://img.freepik.com/free-vector/flat-design-cooking-class-facebook-cover_23-2149111133.jpg",
+    "service_name": "Cooking Classes",
+    "service_price": "$40/session",
+    "service_area": "Online , Houston (Texas)",
+    "service_type": "Basic Cooking, Baking, International Cuisine",
+    "description": "Fun and interactive cooking classes for beginners and food enthusiasts. Learn essential cooking techniques and explore a variety of cuisines.",
+    "user": {
+      "username": "chef_inspire",
+      "email": "chef_inspire@example.com",
+      "user_image": "https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg",
+      "description": "Hi, I'm James Anderson, a professional chef with a passion for teaching others the joys of cooking. Join my classes to learn new recipes, cooking techniques, and more!"
+    }
+  },
+  {
+    "service_image": "https://i.ytimg.com/vi/cYxDmDyH0l8/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDPB2rOLWcuRMnmGZknHvoUNEozzA",
+    "service_name": "Online Yoga Sessions",
+    "service_price": "$25/session",
+    "service_area": "Online , Los Angeles (California)",
+    "service_type": "Hatha Yoga, Vinyasa Flow",
+    "description": "Virtual yoga sessions suitable for all levels, from beginners to experienced practitioners. Rejuvenate your mind and body with guided yoga practice.",
+    "user": {
+      "username": "yoga_master",
+      "email": "yoga_master@example.com",
+      "user_image": "https://discoverymood.com/wp-content/uploads/2020/04/Mental-Strong-Women-min.jpg",
+      "description": "Hi, I'm Sarah Thompson, a certified yoga instructor passionate about promoting health and wellness through yoga. Join my online sessions to experience the benefits of yoga from the comfort of your home."
+    }
+  },
+  {
+    "service_image": "https://media.insider.in/image/upload/c_crop,g_custom/v1598604344/lphofl2r0minip9xrf0g.jpg",
+    "service_name": "Personal Finance Workshop",
+    "service_price": "$35/session",
+    "service_area": "Online , Miami-Dade (Florida)",
+    "service_type": "Budgeting, Investing, Financial Planning",
+    "description": "Practical workshop covering essential personal finance topics such as budgeting, investing, and financial planning. Gain control of your finances and secure your financial future!",
+    "user": {
+      "username": "finance_expert",
+      "email": "finance_expert@example.com",
+      "user_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3V9cZFdZ53ZupKnWX-23ZcXHmK75SZ4boyQG-f5G_Mw&s",
+      "description": "Hi, I'm Michael Roberts, a financial advisor passionate about empowering individuals with the knowledge and skills to achieve financial success. Join my workshop to take control of your financial life!"
+    }
+  },
+  {
+    "service_image": "https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
+    "service_name": "Graphic Design Workshops",
+    "service_price": "$40/session",
+    "service_area": "Online , Miami-Dade (Florida)",
+    "service_type": "Adobe Photoshop, Illustrator",
+    "description": "Interactive workshops covering graphic design fundamentals and software skills. Learn to create stunning visuals and unleash your creativity.",
+    "user": {
+      "username": "design_guru",
+      "email": "design_guru@example.com",
+      "user_image": "https://t4.ftcdn.net/jpg/02/24/86/95/360_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg",
+      "description": "Hi, I'm Emily Carter, a professional graphic designer passionate about sharing my expertise with aspiring designers. Join my workshops to master the art of visual communication!"
+    }
+  },
+  {
+    "service_image": "https://t4.ftcdn.net/jpg/04/58/08/77/360_F_458087755_Ev7sfKMoPaJ878J9C6Ee0b2v6qj5ITEq.jpg",
+    "service_name": "Singing Lessons",
+    "service_price": "$35/hour",
+    "service_area": "Online , Miami-Dade (Florida)",
+    "service_type": "Vocal Training, Performance Techniques",
+    "description": "Personalized singing lessons for all ages and skill levels. Develop your vocal range, technique, and performance skills under expert guidance.",
+    "user": {
+      "username": "sing_vibes",
+      "email": "sing_vibes@example.com",
+      "user_image": "https://img.freepik.com/free-photo/portrait-young-beautiful-model-stand-smiling-camera-high-quality-photo_144627-75055.jpg",
+      "description": "Hi, I'm David Miller, a professional vocalist and vocal coach passionate about helping singers discover their unique voice. Join my lessons to unlock your full singing potential!"
+    }
+  },
+  {
+    "service_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5k9OFFpZDOpyts9KYVCls1TM3wMUbNXRQ6_Evoa7taA&s",
+    "service_name": "Mathematics Olympiad Training",
+    "service_price": "$50/hour",
+    "service_area": "Online , Miami-Dade (Florida)",
+    "service_type": "Number Theory, Algebra, Geometry",
+    "description": "Intensive training program for students preparing for mathematics olympiads. Master advanced mathematical concepts and problem-solving techniques.",
+    "user": {
+      "username": "math_whiz",
+      "email": "math_whiz@example.com",
+      "user_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2NnOl-fQG_1qFpz3Ut0hM60vRVg2xvh9ipwMXdj7e0Y13VfqusDlB_eB5GjhqFuoLoj4&usqp=CAU",
+      "description": "Hi, I'm Jessica Brown, a former mathematics olympiad champion passionate about helping aspiring mathematicians reach their full potential. Join my training program to excel in mathematics competitions!"
+    }
+  },
+  {
+    "service_image": "https://www-ecs.jamplay.com/client/global/images/shell/home/meta-Sept2021.jpg",
+    "service_name": "Online Guitar Lessons",
+    "service_price": "$30/hour",
+    "service_area": "Online , Cook (Illinois)",
+    "service_type": "Acoustic Guitar, Electric Guitar",
+    "description": "Virtual guitar lessons for beginners and intermediate players. Learn chords, scales, and songs in various genres with personalized instruction.",
+    "user": {
+      "username": "guitar_pro",
+      "email": "guitar_pro@example.com",
+      "user_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTweSPf5U_caMdUpBQow5gaFECPs7oQnOKtqQRtxTzKVQ&s",
+      "description": "Hi, I'm Andrew Wilson, a professional guitarist and guitar instructor passionate about sharing my love for music. Join my online lessons to master the guitar and unleash your musical creativity!"
+    }
+  },
+  {
+    "service_image": "https://thumbs.dreamstime.com/b/hands-holding-book-title-career-guidance-book-title-career-guidance-101192844.jpg",
+    "service_name": "Career Counseling",
+    "service_price": "$50/session",
+    "service_area": "Online , Cook (Illinois)",
+    "service_type": "Resume Writing, Interview Preparation",
+    "description": "Personalized career counseling sessions to help you explore career options, set goals, and develop strategies for career advancement.",
+    "user": {
+      "username": "career_guide",
+      "email": "career_guide@example.com",
+      "user_image": "https://img.freepik.com/free-photo/how-may-i-assist-you-smiling-pleasant-man-with-red-hair-looking-content-determined-holding-hands-together-ready-offer-his-help-assisting-clients-standing-white-background_176420-44866.jpg",
+      "description": "Hi, I'm Rachel Adams, a certified career counselor dedicated to helping individuals navigate their career paths. Join my counseling sessions to gain clarity and confidence in your career decisions!"
+    }
+  },
+  {
+    "service_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQOQZ8aE5S6NRYcFP65_ZOvfXzZa1rw1t9uXmIw72nA&s",
+    "service_name": "Dance Classes",
+    "service_price": "$25/session",
+    "service_area": "Online , Cook (Illinois)",
+    "service_type": "Ballet, Hip Hop, Contemporary",
+    "description": "Fun and energetic dance classes for all ages and skill levels. Learn different dance styles and routines in a supportive and inclusive environment.",
+    "user": {
+      "username": "dance_maestro",
+      "email": "dance_maestro@example.com",
+      "user_image": "https://us.123rf.com/450wm/deagreez/deagreez2104/deagreez210409554/168182559-photo-portrait-of-pretty-woman-wearing-white-casual-t-shirt-laughing-throwing-hair-in-air-on-city.jpg?ver=6",
+      "description": "Hi, I'm Olivia Smith, a professional dancer and dance instructor passionate about sharing the joy of dance with others. Join my classes to express yourself through movement and rhythm!"
+    }
+  },
+  {
+    "service_image": "https://www.geektonight.com/wp-content/uploads/Best-SAT-Prep-Courses.webp",
+    "service_name": "SAT Prep Course",
+    "service_price": "$60/hour",
+    "service_area": "Online , Philadelphia (Pennsylvania)",
+    "service_type": "Math, Reading, Writing",
+    "description": "Comprehensive SAT preparation course covering math, reading, and writing sections. Boost your scores and maximize your chances of college admission.",
+    "user": {
+      "username": "sat_expert",
+      "email": "sat_expert@example.com",
+      "user_image": "https://www.shutterstock.com/image-photo/portrait-smiling-mature-man-standing-260nw-2137527991.jpg",
+      "description": "Hi, I'm Daniel Johnson, an experienced SAT tutor dedicated to helping students achieve their target scores. Join my prep course to master key concepts and ace the SAT!"
+    }
+  },
+  {
+    "service_image": "https://img.freepik.com/premium-psd/cooking-courses-facebook-cover-banner-template_131196-160.jpg",
+    "service_name": "Cooking Masterclass",
+    "service_price": "$50/session",
+    "service_area": "Online , Philadelphia (Pennsylvania)",
+    "service_type": "Culinary Techniques, Gourmet Cuisine",
+    "description": "Advanced cooking masterclass for aspiring chefs and culinary enthusiasts. Learn advanced techniques and elevate your cooking skills to a professional level.",
+    "user": {
+      "username": "masterchef",
+      "email": "masterchef@example.com",
+      "user_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUWTAngmdNl434RsDPsTakyCimxj1iBZWzgYJNKKb3kQ&s",
+      "description": "Hi, I'm Thomas Evans, a professional chef with a passion for teaching and innovation in the kitchen. Join my masterclass to learn advanced culinary techniques and elevate your cooking to the next level!"
+    }
+  },
+  {
+    "service_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdW3BjZGfSU6uecmzOSImL4tQGr41FSHSk0HSflQt-RA&s",
+    "service_name": "Photography Editing Workshops",
+    "service_price": "$45/session",
+    "service_area": "Online, Manhattan (New York)",
+    "service_type": "Adobe Lightroom, Photoshop",
+    "description": "Interactive workshops focusing on photo editing techniques using Adobe Lightroom and Photoshop. Enhance your photography skills and create stunning images.",
+    "user": {
+      "username": "photo_edit_pro",
+      "email": "photo_edit_pro@example.com",
+      "user_image": "https://st.depositphotos.com/1518767/2411/i/450/depositphotos_24112411-stock-photo-happy-man-in-kitchen.jpg",
+      "description": "Hi, I'm Emma Taylor, a professional photographer and photo editing enthusiast. Join my workshops to master photo editing software and take your photography to the next level!"
+    }
+  },
+  {
+    "service_image": "https://d2ln1xbi067hum.cloudfront.net/course_offerings/logos/000/001/742/original/fb_ads_Public_Speaking_The_Ultimate_Training_Program_final-01.png?1455608590",
+    "service_name": "Public Speaking Coaching",
+    "service_price": "$40/hour",
+    "service_area": "Online , Philadelphia (Pennsylvania)",
+    "service_type": "Speech Writing, Presentation Skills",
+    "description": "Personalized coaching sessions to improve your public speaking and presentation skills. Overcome stage fright and deliver confident and impactful speeches.",
+    "user": {
+      "username": "speech_maven",
+      "email": "speech_maven@example.com",
+      "user_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEr1b79sOoh9ME4N5oiV7yFjPnYNzYtaOKhnngqobVCQ&s",
+      "description": "Hi, I'm Jessica Lee, a public speaking coach dedicated to helping individuals become effective communicators. Join my coaching sessions to unleash your speaking potential and captivate your audience!"
+    }
+  },
+  {
+    "service_image": "https://cdn.create.vista.com/downloads/d7cd5047-6e6d-47be-a55f-2a9a18cc513f_640.jpeg",
+    "service_name": "Acting Workshops",
+    "service_price": "$35/session",
+    "service_area": "Online , Manhattan (New York)",
+    "service_type": "Acting Techniques, Scene Study",
+    "description": "Dynamic acting workshops for aspiring actors. Develop your acting skills, explore different techniques, and bring characters to life on stage or screen.",
+    "user": {
+      "username": "acting_pro",
+      "email": "acting_pro@example.com",
+      "user_image": "https://cms.forbesafrica.com/wp-content/uploads/2024/04/Amanda-Esther-Akokhia-started-her-first-photo-studio-at-the-age-of-24-image-supplied-scaled.jpg",
+      "description": "Hi, I'm Christopher Roberts, a seasoned actor and acting coach with a passion for nurturing talent. Join my workshops to hone your craft and unleash your potential as an actor!"
+    }
+  },
+  {
+    "service_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfObgQmUuqtTq8J0z2U71KpA4j88jYD0_wuT0AyjIqLA&s",
+    "service_name": "Chess Coaching",
+    "service_price": "$25/hour",
+    "service_area": "Online , Cuyahoga (Ohio)",
+    "service_type": "Chess Strategy, Tactics",
+    "description": "Personalized chess coaching sessions for players of all levels. Improve your strategic thinking, tactical skills, and overall gameplay.",
+    "user": {
+      "username": "chess_master",
+      "email": "chess_master@example.com",
+      "user_image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1712880000&semt=ais",
+      "description": "Hi, I'm Alexander Brown, a passionate chess player and coach dedicated to helping others master the game. Join my coaching sessions to sharpen your skills and outsmart your opponents!"
+    }
+  },
+  {
+    "service_image": "https://i0.wp.com/mahbubosmane.com/wp-content/uploads/2023/06/Digital-Marketing-Course.webp",
+    "service_name": "Digital Marketing Course",
+    "service_price": "$50/session",
+    "service_area": "Online , Cuyahoga (Ohio)",
+    "service_type": "Social Media Marketing, SEO",
+    "description": "Comprehensive course covering digital marketing strategies and techniques. Learn to harness the power of digital channels to grow your brand and reach your audience.",
+    "user": {
+      "username": "marketing_guru",
+      "email": "marketing_guru@example.com",
+      "user_image": "https://media.vanityfair.com/photos/63068cbbbfb0c00da24590fe/master/pass/Luke-MacFarlane-Profile-Story-Image.jpg",
+      "description": "Hi, I'm Samantha Wilson, a digital marketing expert passionate about helping businesses thrive in the digital age. Join my course to master the art and science of digital marketing!"
+    }
+  },
+  {
+    "service_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4St81b8hNjddTjWnXc0LL_0dUfnrYoIabgEDCk-u9w&s",
+    "service_name": "Interior Design Consultation",
+    "service_price": "$60/hour",
+    "service_area": "Online , Wayne (Michigan)",
+    "service_type": "Space Planning, Color Schemes",
+    "description": "Personalized interior design consultations to transform your space. Get expert advice on layout, color schemes, furniture selection, and decor.",
+    "user": {
+      "username": "design_whiz",
+      "email": "design_whiz@example.com",
+      "user_image": "https://img.freepik.com/free-photo/man-green-shirt-having-his-arms-crossed_23-2148401380.jpg",
+      "description": "Hi, I'm Emily Johnson, an interior designer with a passion for creating beautiful and functional spaces. Book a consultation with me to turn your design dreams into reality!"
+    }
+  }
+]

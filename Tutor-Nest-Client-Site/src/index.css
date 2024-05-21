@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  transition: 0.5s;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.customBgStyle {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.blurBg {
+  background: rgba(255, 255, 255, 0.199);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+.active {
+  font-weight: bold !important;
+  background: transparent !important;
+  color: #f0ac5f !important;
+}
+.airButton {
+  width: 13%;
+  height: 20%;
+  border-radius: 50% 50% 50% 0;
+  transform: rotate(-45deg);
+}
+.line::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 9px;
+  height: 9px;
+  left: -4px;
+  border-radius: 100%;
+  background: #6b7280;
+  border: 5px solid white;
+  outline: 2px solid #6b7280;
+}
+.button,
+.deletButton {
+  padding: 6px;
+  border-radius: 25px;
+  font-weight: bold;
+  position: relative;
+  overflow: hidden;
+}
+.deletButton::after,
+.button::after {
+  content: "";
+  z-index: -10;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 100%;
+
+  transition: 0.5s;
+}
+.deletButton::after {
+  background: rgb(196, 24, 1);
+}
+.button::after {
+  background: rgb(1, 196, 196);
+}
+.deletButton:hover,
+.button:hover {
+  color: white;
+}
+.deletButton:hover::after,
+.button:hover::after {
+  right: 0%;
+}
+.customBorder {
+  border-left: 1px solid rgb(78, 78, 78);
+}
+.radius {
+  z-index: -100;
+  border-radius: 10px;
+  background: linear-gradient(
+    45deg,
+    rgba(0, 202, 101, 0.507),
+    rgba(0, 162, 255, 0.5),
+    rgba(0, 202, 168, 0.479)
+  );
+}
+
+.custom_design {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  z-index: 1000000;
+}
+
+@media only screen and (max-width: 640px) {
+  .customBorder {
+    border-left: 0;
+    border-top: 1px solid rgb(83, 83, 83);
+  }
+}
